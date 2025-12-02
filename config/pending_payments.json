@@ -1,0 +1,326 @@
+{
+  "6d6c6d95-29f9-4f18-9dac-5d607205ed9e": {
+    "bot_invoice_id": 34779937,
+    "payload": "6d6c6d95-29f9-4f18-9dac-5d607205ed9e|de-fra-01|1|7256019444",
+    "created_at": "2025-10-03T10:21:20.025636+00:00",
+    "user_id": 7256019444
+  },
+  "69b9ff4c-54a4-45bd-a000-2230a3e73274": {
+    "bot_invoice_id": 34791306,
+    "payload": "69b9ff4c-54a4-45bd-a000-2230a3e73274|de-fra-01|3|7256019444",
+    "created_at": "2025-10-03T13:23:20.434336+00:00",
+    "user_id": 7256019444
+  },
+  "7263b635-b13c-4720-8979-4d3dad8afebd": {
+    "bot_invoice_id": 34828980,
+    "payload": "7263b635-b13c-4720-8979-4d3dad8afebd|de-fra-01|2|7256019444",
+    "created_at": "2025-10-04T04:29:14.404166+00:00",
+    "user_id": 7256019444
+  },
+  "05c55c59-8d10-45d6-bf24-b3cbebc51ef2": {
+    "bot_invoice_id": 34835259,
+    "payload": "05c55c59-8d10-45d6-bf24-b3cbebc51ef2|de-fra-01|2|6442216077",
+    "created_at": "2025-10-04T07:53:58.819363+00:00",
+    "user_id": 6442216077
+  },
+  "f5af50d8-ad77-484f-99c0-c3debefcc0cb": {
+    "bot_invoice_id": 34835730,
+    "payload": "f5af50d8-ad77-484f-99c0-c3debefcc0cb|de-fra-01|1|7256019444",
+    "created_at": "2025-10-04T08:03:05.672009+00:00",
+    "user_id": 7256019444
+  },
+  "29c18987-b5d8-4f54-9e1b-4f95994e8659": {
+    "bot_invoice_id": 34835968,
+    "payload": "29c18987-b5d8-4f54-9e1b-4f95994e8659|de-fra-01|1|7256019444",
+    "created_at": "2025-10-04T08:08:33.566354+00:00",
+    "user_id": 7256019444
+  },
+  "79c8c23f-8cc8-477e-a0fd-2bb9dbf7bc00": {
+    "bot_invoice_id": 34859410,
+    "payload": "79c8c23f-8cc8-477e-a0fd-2bb9dbf7bc00|de-fra-01|mobile|1w|7256019444",
+    "created_at": "2025-10-04T15:03:16.701571+00:00",
+    "user_id": 7256019444
+  },
+  "e6d9ea61-73d3-4c19-b7d9-e8eb381335f4": {
+    "bot_invoice_id": 34864671,
+    "payload": "e6d9ea61-73d3-4c19-b7d9-e8eb381335f4|de-fra-01|mobile|1w|7256019444",
+    "created_at": "2025-10-04T16:30:46.669389+00:00",
+    "user_id": 7256019444
+  },
+  "28eafcd5-6772-4d6d-a9e9-01d3a76b0a4d": {
+    "bot_invoice_id": 34864712,
+    "payload": "reset_traffic|a1b2c3_6442216077_1|7256019444",
+    "created_at": "2025-10-04T16:31:30.937045+00:00",
+    "user_id": 7256019444
+  },
+  "92fd147d-bd18-433f-9d33-594708d017f7": {
+    "bot_invoice_id": 34864720,
+    "payload": "reset_traffic|a1b2c3_6442216077_1|7256019444",
+    "created_at": "2025-10-04T16:31:38.361915+00:00",
+    "user_id": 7256019444
+  },
+  "60deb6cd-ed9b-4458-8a7d-78d324a85138": {
+    "bot_invoice_id": 34865514,
+    "payload": "add_traffic|a1b2c3_6442216077_1|7256019444",
+    "created_at": "2025-10-04T16:45:54.545711+00:00",
+    "user_id": 7256019444
+  },
+  "e55599b4-3a24-4a00-a7c9-1b0fbc50da4a": {
+    "bot_invoice_id": 34866525,
+    "payload": "renew|a1b2c3|6442216077|7256019444",
+    "created_at": "2025-10-04T17:02:04.569447+00:00",
+    "user_id": 7256019444
+  },
+  "ce83bcf1-77a5-42c2-b540-f60cd7ab2d87": {
+    "bot_invoice_id": 34866556,
+    "payload": "reset_traffic|a1b2c3_6442216077_1|7256019444",
+    "created_at": "2025-10-04T17:02:35.254120+00:00",
+    "user_id": 7256019444
+  },
+  "45c3fdf3-ac6b-4102-83e6-d2ae9727410e": {
+    "bot_invoice_id": 34866558,
+    "payload": "reset_traffic|a1b2c3_6442216077_1|7256019444",
+    "created_at": "2025-10-04T17:02:38.526709+00:00",
+    "user_id": 7256019444
+  },
+  "f3a44ba7-8665-4155-ae5b-d2c84009ee6a": {
+    "bot_invoice_id": 34866566,
+    "payload": "renew|a1b2c3|6442216077|7256019444",
+    "created_at": "2025-10-04T17:02:43.789998+00:00",
+    "user_id": 7256019444
+  },
+  "3b388de5-79cb-4a96-9bc9-91dcda20e8a0": {
+    "bot_invoice_id": 34894926,
+    "payload": "3b388de5-79cb-4a96-9bc9-91dcda20e8a0|de-fra-01|mobile|1w|7256019444",
+    "created_at": "2025-10-05T07:29:31.733208+00:00",
+    "user_id": 7256019444
+  },
+  "0951da49-c14e-4c53-8219-de5396839bb1": {
+    "bot_invoice_id": 34895243,
+    "payload": "0951da49-c14e-4c53-8219-de5396839bb1|de-fra-01|mobile|1w|6442216077",
+    "created_at": "2025-10-05T07:37:41.220939+00:00",
+    "user_id": 6442216077
+  },
+  "c40b7f6f-a7c0-4f55-aaf6-78d51eb831e3": {
+    "bot_invoice_id": 34895697,
+    "payload": "reset_traffic|07b7cce8-a18e-4794-af38-61dd640a4e39|7256019444",
+    "created_at": "2025-10-05T07:48:43.850603+00:00",
+    "user_id": 7256019444
+  },
+  "a18290d9-ee81-43bb-8689-7cddfee64bf5": {
+    "bot_invoice_id": 34895701,
+    "payload": "add_traffic|07b7cce8-a18e-4794-af38-61dd640a4e39|7256019444",
+    "created_at": "2025-10-05T07:48:49.746897+00:00",
+    "user_id": 7256019444
+  },
+  "b4c68795-371d-46be-b2e1-d441a1b4b2fc": {
+    "bot_invoice_id": 34896946,
+    "payload": "b4c68795-371d-46be-b2e1-d441a1b4b2fc|de-fra-01|mobile|1w|6442216077",
+    "created_at": "2025-10-05T08:17:03.099574+00:00",
+    "user_id": 6442216077
+  },
+  "c5d60cc3-be68-4ac7-9faf-8202d15691aa": {
+    "bot_invoice_id": 34899643,
+    "payload": "c5d60cc3-be68-4ac7-9faf-8202d15691aa|de-fra-01|mobile|1w|7256019444",
+    "created_at": "2025-10-05T09:11:53.318966+00:00",
+    "user_id": 7256019444
+  },
+  "d2c7a60c-1f7e-40d6-a5b3-d0e3e547f04d": {
+    "bot_invoice_id": 34901443,
+    "payload": "reset_traffic|deeed5f6-4421-4a13-856b-1d7dfd63c485|7256019444",
+    "created_at": "2025-10-05T09:46:28.554317+00:00",
+    "user_id": 7256019444
+  },
+  "b219b8c0-fb34-453e-824d-28e99d74b175": {
+    "bot_invoice_id": 34904478,
+    "payload": "b219b8c0-fb34-453e-824d-28e99d74b175|de-fra-01|mobile|1w|7256019444",
+    "created_at": "2025-10-05T10:36:32.704453+00:00",
+    "user_id": 7256019444
+  },
+  "071f2020-acf5-46f1-bb7b-324b9bcc3f4e": {
+    "bot_invoice_id": 34928368,
+    "payload": "071f2020-acf5-46f1-bb7b-324b9bcc3f4e|de-fra-01|mobile|1w|7256019444",
+    "created_at": "2025-10-05T16:57:39.669640+00:00",
+    "user_id": 7256019444
+  },
+  "ce7e7c27-5d23-4787-b508-b2b714baf80c": {
+    "bot_invoice_id": 34928750,
+    "payload": "reset_traffic|5c6a7932-3ebd-4acf-8f09-dd8efdc12861|7256019444",
+    "created_at": "2025-10-05T17:03:57.292194+00:00",
+    "user_id": 7256019444
+  },
+  "cba28b84-f92e-4abe-892e-a287ecf9dbab": {
+    "bot_invoice_id": 34928793,
+    "payload": "add_traffic|5c6a7932-3ebd-4acf-8f09-dd8efdc12861|7256019444",
+    "created_at": "2025-10-05T17:04:36.151851+00:00",
+    "user_id": 7256019444
+  },
+  "5521949d-f743-43ce-b756-465514ab2a72": {
+    "bot_invoice_id": 34929458,
+    "payload": "add_traffic|afd09138-4e41-46c2-88f5-fa9abf6ad0c7|7256019444",
+    "created_at": "2025-10-05T17:15:21.323377+00:00",
+    "user_id": 7256019444
+  },
+  "13cd2868-1db7-42c1-b8bd-1f950938de0d": {
+    "bot_invoice_id": 34929545,
+    "payload": "reset_traffic|afd09138-4e41-46c2-88f5-fa9abf6ad0c7|7256019444",
+    "created_at": "2025-10-05T17:16:38.697611+00:00",
+    "user_id": 7256019444
+  },
+  "23eca203-4e79-44e7-ba68-99e591c87759": {
+    "bot_invoice_id": 34930124,
+    "payload": "reset_traffic|afd09138-4e41-46c2-88f5-fa9abf6ad0c7|7256019444",
+    "created_at": "2025-10-05T17:25:37.472966+00:00",
+    "user_id": 7256019444
+  },
+  "715b0050-99a5-4a07-8261-48a9d6eee11c": {
+    "bot_invoice_id": 34930644,
+    "payload": "reset_traffic|afd09138-4e41-46c2-88f5-fa9abf6ad0c7|7256019444",
+    "created_at": "2025-10-05T17:34:13.916794+00:00",
+    "user_id": 7256019444
+  },
+  "033d3da5-707e-44b3-887c-9a613f23258a": {
+    "bot_invoice_id": 34930760,
+    "payload": "reset_traffic|afd09138-4e41-46c2-88f5-fa9abf6ad0c7|7256019444",
+    "created_at": "2025-10-05T17:35:48.635018+00:00",
+    "user_id": 7256019444
+  },
+  "9795f488-4f9a-496a-9b5a-570711c02b51": {
+    "bot_invoice_id": 34931063,
+    "payload": "reset_traffic|afd09138-4e41-46c2-88f5-fa9abf6ad0c7|7256019444",
+    "created_at": "2025-10-05T17:40:31.231272+00:00",
+    "user_id": 7256019444
+  },
+  "3c707505-6ac5-450d-a7a4-e056e1733f4a": {
+    "bot_invoice_id": 34931147,
+    "payload": "reset_traffic|3ba66e62-4b39-4780-b21f-23a435a2ef66|7256019444",
+    "created_at": "2025-10-05T17:41:50.660059+00:00",
+    "user_id": 7256019444
+  },
+  "1a623648-e6d9-42b3-a50d-2ac1247b9894": {
+    "bot_invoice_id": 34931288,
+    "payload": "add_traffic|3ba66e62-4b39-4780-b21f-23a435a2ef66|7256019444",
+    "created_at": "2025-10-05T17:44:05.570497+00:00",
+    "user_id": 7256019444
+  },
+  "e7aefd6d-16b3-4c2b-aa36-4e85d42f0564": {
+    "bot_invoice_id": 34931897,
+    "payload": "add_traffic|3ba66e62-4b39-4780-b21f-23a435a2ef66|7256019444",
+    "created_at": "2025-10-05T17:53:09.774304+00:00",
+    "user_id": 7256019444
+  },
+  "b5013557-5a19-40e5-84b6-1b8c45964a61": {
+    "bot_invoice_id": 34931936,
+    "payload": "add_traffic|3ba66e62-4b39-4780-b21f-23a435a2ef66|7256019444",
+    "created_at": "2025-10-05T17:53:51.959334+00:00",
+    "user_id": 7256019444
+  },
+  "caf2e622-d63b-4537-91b8-1e00a8a0df00": {
+    "bot_invoice_id": 34932114,
+    "payload": "renew|3ba66e62-4b39-4780-b21f-23a435a2ef66|1w|7256019444",
+    "created_at": "2025-10-05T17:56:25.670809+00:00",
+    "user_id": 7256019444
+  },
+  "9f0d0951-c939-4795-8666-70dd4789978e": {
+    "bot_invoice_id": 34932437,
+    "payload": "9f0d0951-c939-4795-8666-70dd4789978e|de-fra-01|mobile|1w|7256019444",
+    "created_at": "2025-10-05T18:01:15.848100+00:00",
+    "user_id": 7256019444
+  },
+  "4f150b01-44ce-4073-9f08-7cc7eafc8570": {
+    "bot_invoice_id": 34932902,
+    "payload": "reset_traffic|3ba66e62-4b39-4780-b21f-23a435a2ef66|7256019444",
+    "created_at": "2025-10-05T18:08:09.912011+00:00",
+    "user_id": 7256019444
+  },
+  "d09f3255-f78b-4024-966c-3becb611932e": {
+    "bot_invoice_id": 34960361,
+    "payload": "d09f3255-f78b-4024-966c-3becb611932e|de-fra-01|mobile|1w|7256019444",
+    "created_at": "2025-10-06T07:54:16.829318+00:00",
+    "user_id": 7256019444
+  },
+  "01c24009-49f3-4a3b-94ff-9b6647d535d5": {
+    "bot_invoice_id": 34960793,
+    "payload": "01c24009-49f3-4a3b-94ff-9b6647d535d5|de-fra-01|mobile|1w|7256019444",
+    "created_at": "2025-10-06T08:04:46.416689+00:00",
+    "user_id": 7256019444
+  },
+  "1985e7e6-4304-4f64-8d01-2e0ad623ae4d": {
+    "bot_invoice_id": 34961520,
+    "payload": "1985e7e6-4304-4f64-8d01-2e0ad623ae4d|de-fra-01|mobile|1w|7256019444",
+    "created_at": "2025-10-06T08:20:09.511542+00:00",
+    "user_id": 7256019444
+  },
+  "f61f9a92-51bb-42e7-8fc3-cd63df8a1df2": {
+    "bot_invoice_id": 34961576,
+    "payload": "f61f9a92-51bb-42e7-8fc3-cd63df8a1df2|de-fra-01|mobile|1w|7256019444",
+    "created_at": "2025-10-06T08:21:08.191199+00:00",
+    "user_id": 7256019444
+  },
+  "0d2b04a4-7e29-4330-b29e-b18468a46ce9": {
+    "bot_invoice_id": 34961966,
+    "payload": "0d2b04a4-7e29-4330-b29e-b18468a46ce9|de-fra-01|mobile|1w|7256019444",
+    "created_at": "2025-10-06T08:29:05.903892+00:00",
+    "user_id": 7256019444
+  },
+  "c41c0763-b658-464f-a02d-06a65ec40fae": {
+    "bot_invoice_id": 34961994,
+    "payload": "c41c0763-b658-464f-a02d-06a65ec40fae|de-fra-01|mobile|1w|7256019444",
+    "created_at": "2025-10-06T08:29:47.149440+00:00",
+    "user_id": 7256019444
+  },
+  "c68dba24-bf70-4e69-a8f5-70c1b9fb5ceb": {
+    "bot_invoice_id": 34962378,
+    "payload": "c68dba24-bf70-4e69-a8f5-70c1b9fb5ceb|de-fra-01|mobile|1w|7256019444",
+    "created_at": "2025-10-06T08:38:47.431483+00:00",
+    "user_id": 7256019444
+  },
+  "1d4bfa3d-65f2-4216-bcc4-93ffc808602c": {
+    "bot_invoice_id": 34962402,
+    "payload": "1d4bfa3d-65f2-4216-bcc4-93ffc808602c|de-fra-01|mobile|1w|7256019444",
+    "created_at": "2025-10-06T08:39:19.337823+00:00",
+    "user_id": 7256019444
+  },
+  "fe5e0f0c-240f-4ee6-ba7e-3cfefcc466e9": {
+    "bot_invoice_id": 34966910,
+    "payload": "reset_traffic|fadacbb5-877a-4d34-85f9-e7426a62e202|7256019444",
+    "created_at": "2025-10-06T10:06:29.629140+00:00",
+    "user_id": 7256019444
+  },
+  "17b5a1f3-bb71-43be-a4db-a44c59646ea8": {
+    "bot_invoice_id": 34980743,
+    "payload": "17b5a1f3-bb71-43be-a4db-a44c59646ea8|de-fra-01|mobile|1w|7256019444",
+    "created_at": "2025-10-06T13:47:30.837617+00:00",
+    "user_id": 7256019444
+  },
+  "a38c799a-41d1-4dd1-8290-b3d63ac72b45": {
+    "bot_invoice_id": 34980879,
+    "payload": "a38c799a-41d1-4dd1-8290-b3d63ac72b45|de-fra-01|mobile|1w|7256019444",
+    "created_at": "2025-10-06T13:49:35.407824+00:00",
+    "user_id": 7256019444
+  },
+  "53cd392c-8bfb-416d-8765-07d8d01f408b": {
+    "bot_invoice_id": 34982369,
+    "payload": "53cd392c-8bfb-416d-8765-07d8d01f408b|de-fra-01|mobile|1w|7256019444",
+    "created_at": "2025-10-06T14:12:26.626292+00:00",
+    "user_id": 7256019444
+  },
+  "adf82628-6083-44ee-a891-3a985aa98cfd": {
+    "bot_invoice_id": 34982411,
+    "payload": "adf82628-6083-44ee-a891-3a985aa98cfd|de-fra-01|mobile|1w|7256019444",
+    "created_at": "2025-10-06T14:13:07.164530+00:00",
+    "user_id": 7256019444
+  },
+  "af9e9bbb-38e4-4aa0-b2b9-6d245e3c6021": {
+    "bot_invoice_id": 34983150,
+    "payload": "af9e9bbb-38e4-4aa0-b2b9-6d245e3c6021|de-fra-01|mobile|1w|7256019444",
+    "created_at": "2025-10-06T14:24:06.412361+00:00",
+    "user_id": 7256019444
+  },
+  "54432e03-47e1-418d-98fc-7f560b979aee": {
+    "bot_invoice_id": 34984761,
+    "payload": "54432e03-47e1-418d-98fc-7f560b979aee|de-fra-01|mobile|1w|7256019444",
+    "created_at": "2025-10-06T14:46:52.158401+00:00",
+    "user_id": 7256019444
+  }
+}

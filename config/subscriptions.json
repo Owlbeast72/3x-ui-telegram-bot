@@ -1,0 +1,47 @@
+{
+  "7256019444": {
+    "username": "nefrit_ast",
+    "configs": [
+      {
+        "client_email": "7256019444_1",
+        "config_id": "b98071e3-eda9-45b6-b558-eb92c877f284",
+        "server_id": "de-fra-01",
+        "base_tariff": "1w",
+        "traffic_limit_gb": 100,
+        "traffic_used_bytes": 0,
+        "expiry": "2025-10-13T14:51:10.671496+00:00",
+        "created_at": "2025-10-06T14:51:10.671529+00:00",
+        "vless_link": "vless://b98071e3-eda9-45b6-b558-eb92c877f284@194.147.148.33:443?type=tcp&encryption=none&security=reality&pbk=BTv0bH6kOozRLc0jvoBgH9vszL2z_TPrQL6yHhElcUo&fp=chrome&sni=vk.com&sid=22441c&spx=%2F&flow=xtls-rprx-vision#Reality-7jBMec_7256019444_1",
+        "subscription_link": "http://194.147.148.33:2096/submUtwqKTNWxCNFCunhWyLV/S3RYbMZproAR0G5c",
+        "client_sub_id": "S3RYbMZproAR0G5c",
+        "active": true,
+        "addons": {
+          "extra_traffic_gb": 0,
+          "traffic_reset_count": 0
+        }
+      },
+      {
+        "client_email": "VyjF5Y_7256019444_2",
+        "config_id": "1fb3376a-7c78-4d8d-8d3e-6af9f4a78729",
+        "server_id": "de-fra-01",
+        "base_tariff": "3m",
+        "traffic_limit_gb": 150,
+        "traffic_used_bytes": 0,
+        "expiry": "2026-03-05T15:00:32.988392+00:00",
+        "created_at": "2025-10-06T15:00:32.988425+00:00",
+        "vless_link": "vless://1fb3376a-7c78-4d8d-8d3e-6af9f4a78729@194.147.148.33:443?type=tcp&encryption=none&security=reality&pbk=BTv0bH6kOozRLc0jvoBgH9vszL2z_TPrQL6yHhElcUo&fp=chrome&sni=vk.com&sid=22441c&spx=%2F&flow=xtls-rprx-vision#Reality-VyjF5Y_7256019444_2",
+        "subscription_link": "http://194.147.148.33:2096/submUtwqKTNWxCNFCunhWyLV/KYUqQPIAcl3zAwrm",
+        "client_sub_id": "KYUqQPIAcl3zAwrm",
+        "active": true,
+        "addons": {
+          "extra_traffic_gb": 50,
+          "traffic_reset_count": 1
+        }
+      }
+    ],
+    "notifications": {
+      "expiry": true,
+      "traffic": true
+    }
+  }
+}

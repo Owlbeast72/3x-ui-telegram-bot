@@ -1,0 +1,14 @@
+{
+  "de-fra-01": {
+    "country": "🇩🇪Germany",
+    "city": "Frankfurt",
+    "xui_url": "https://194.147.148.33:56221/ZKaXFBSNUa856hVUUx",
+    "xui_username": "hy5IxA0OAd",
+    "xui_password": "jT98llDhRC",
+    "inbound_id": 1,
+    "mobile_spoof": true,
+    "subscription_path": "/submUtwqKTNWxCNFCunhWyLV",
+    "subscription_port": 2096,
+    "active": true
+  }
+}
