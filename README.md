@@ -77,7 +77,8 @@ source botvenv/bin/activate
 ```
 ## 5. Установка зависимостей
 ```bash
-sudo pip install -r requirements.txt --break-system-packages
+sudo chown -R $(whoami) /opt/3x-ui-telegram-bot/botvenv/
+pip install -r requirements.txt
 # Всё нормально так как устанавливаем в VENV
 ```
 ## 6. Создание файла конфигурации
