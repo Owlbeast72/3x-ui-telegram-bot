@@ -92,7 +92,7 @@ nano config.py
 source botvenv/bin/activate
 python main.py
 ```
-## 9.Создание systemd сервиса (Рекомендуется, для автозапуска)
+## 9. Создание systemd сервиса (Рекомендуется, для автозапуска)
 ```bash
 sudo nano /etc/systemd/system/3x-ui-bot.service
 ```
