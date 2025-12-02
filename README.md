@@ -153,3 +153,5 @@ sudo systemctl status 3x-ui-bot
 ```
 openssl s_client -connect example.com:443 -showcerts </dev/null 2>/dev/null | openssl x509 -outform PEM > de-fra-01.crt
 ```
+Чтобы в поддержке был ваш аккаунт в файле /handlers/start.py ищите "Служба поддержки"
+И меняйте "→ @nefrit_ast\n\n" на ваше значение!
