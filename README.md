@@ -77,7 +77,6 @@ source botvenv/bin/activate
 ```bash
 sudo chown -R $(whoami) /opt/3x-ui-telegram-bot/botvenv/
 pip install -r requirements.txt
-# Всё нормально так как устанавливаем в VENV
 ```
 ## 6. Создание файла конфигурации
 ```bash
