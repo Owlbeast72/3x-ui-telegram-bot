@@ -69,7 +69,7 @@ sudo apt update && sudo apt install python3-venv python3-pip -y
 ```
 ## 3. Создание виртуального окружения
 ```bash
-python3 -m venv botvenv
+sudo python3 -m venv botvenv
 ```
 ## 4. Активация виртуального окружения
 ```bash
@@ -77,11 +77,12 @@ source botvenv/bin/activate
 ```
 ## 5. Установка зависимостей
 ```bash
-pip install -r requirements.txt
+sudo pip install -r requirements.txt --break-system-packages
+# Всё нормально так как устанавливаем в VENV
 ```
 ## 6. Создание файла конфигурации
 ```bash
-cp config.example.py config.py
+sudo cp config.example.py config.py
 ```
 ## 7. Редактирование конфигурации (замените значения на ваши)
 ```bash
